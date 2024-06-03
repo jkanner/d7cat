@@ -137,6 +137,8 @@ st.write("""
  * Mugu Secant Walls Project
  * Topanga Canyon Repaving Project
 
+ * Additional freeway expansions in District 7 are tracked at: https://www.destructionfornada.com
+
 ## Projects for bikes
 
  * Santa Monica Blvd. Bike Lane Project: This project would add 0.2 miles of bike lane, which may or may not be protected
@@ -149,8 +151,8 @@ st.write("""
 ## Project Summary
 
 To help car mobility, CalTrans D7 currently has
-24 projects in progress, with funding
-of hundreds of millions of dollars.
+24 projects in progress, with expected costs 
+of ***billions*** of dollars.
 
 To help cyclist mobility, there are currently two projects
 planned, with the potential to add
